@@ -1,0 +1,6 @@
+Funcionalidades do Projeto de Reciclagem:
+
+1.Vizualizar pontos de coleta;
+2.Cadastrar pontos de coleta;
+3.Cadastrar clientes (Login);
+4.Cliente obter informação e dicas de reciclagem e descarte correto;
